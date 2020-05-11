@@ -1,8 +1,4 @@
-# ananthutmaniexuro20webcrafts
-
-This is a repository created for the TKMCE event EXURO 2020 WebCrafts
-
-The main page Index has 3 subsidiary webpages created by me. They are the webpage More.html in the folder more, Delivery.html in the folder Supply and verify.html in the Folder Verify.
+The main page Index has 3 subsidiary webpages created by me. They are the webpage More.html, Delivery.html and verify.html.
 
 From the main page "index" these can be accessed by clicking the Visit Website link in the card elements under Services in the case of Advanced No Contact Delivery System (Delivery.html) and Fact Verification (verify.html), and through the View More button (more.html).
 
