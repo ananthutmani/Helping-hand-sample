@@ -1,0 +1,64 @@
+html{
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/servicewall.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+#front{
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/servicewall.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.4);
+
+}
+
+h1{
+    margin-top: 30vh;
+    font-family: Nunito;
+    font-size: 10vh;
+    color: white;
+}
+
+.subtitle{
+    font-family: 'Arial Rounded MT Bold';
+    font-size: 3vh;
+    color: white;
+    margin-bottom: 20vh;
+}
+.input-group-text{
+    font-family: 'Arial Rounded MT Bold';
+    font-size: 3vh;
+}
+button{
+    font-family: 'Arial Rounded MT Bold';
+    font-size: 3vh;
+}
+h2{
+    font-family: Comfortaa;
+    font-size: 5vh;
+    color: beige;
+}
+h3{
+    font-family: Comfortaa;
+    font-size: 3vh;
+    color: beige;
+}
+
+.card-text{
+    font-size: 2vh;
+}
+
+p{
+    font-family: Nunito;
+    font-size: 3vh;
+    color: white;
+}
