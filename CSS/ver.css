@@ -4,6 +4,7 @@ html{
     background-image: url(images/PicsArt.png);
     background-position: center;
     background-attachment: fixed;
+    scroll-behavior: smooth;
 }
 body{
     background-color: rgba(0, 100, 0, 0.3);

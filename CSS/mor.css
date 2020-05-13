@@ -5,6 +5,7 @@ html{
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
+    scroll-behavior: smooth;
 }
 
 
