@@ -112,7 +112,9 @@ p{
     font-size: 2.5vh;
     color: aliceblue;
 }
-
+.card{
+  height: 100%;
+}
 .card-text{
   font-size: 2vh;
 }
@@ -205,10 +207,69 @@ p{
         opacity: 0;
     }
   }
-/* end box animation */
 #list{
     font-family: Comfortaa;
     font-size: 2.5vh;
     color: aliceblue;
     
+}
+#ending h1{
+  color: white;
+  font-weight: 500;
+}
+#ending h2{
+  margin-bottom: 15px;
+}
+#ending h3{
+  font-size: 19px;
+  font-weight: 500;
+}
+#ending p{
+  font-size: 15px;
+  font-weight: 400;
+}
+#credits p{
+  font-size: 15px;
+  color: white; 
+}
+#credits i{
+   font-size: 30px;
+}
+#credits p a{
+    color: white;
+    font-weight: 600;
+} 
+.mapxx{
+      height: 100%;
+      width: 100%;
+}
+.mapxx iframe{
+      height: 100%;
+      width: 100%;
+}
+
+@media screen and (max-width: 1000px) {
+  .mapxx iframe{
+      height: 300px;
+  }
+  #credits p{
+      font-size: 12px;
+  }
+  #credits i{
+      font-size: 23px;
+   }
+
+}
+@media screen and (max-width: 800px) {
+.mapxx iframe{
+      margin-left: 20px;
+      height: 250px;
+  }    
+#credits p{
+      font-size: 10px;
+  }    
+  #credits i{
+      font-size: 20px;
+  }
+  
 }
