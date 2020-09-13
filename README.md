@@ -1,4 +1,5 @@
-The main page Index has 3 subsidiary webpages created by me. They are the webpage More.html, Delivery.html and verify.html.
+##Functionality
+The main page Index has 3 subsidiary webpages created by me. They are the webpages More.html, Delivery.html and verify.html.
 
 From the main page "index" these can be accessed by clicking the Visit Website link in the card elements under Services in the case of Advanced No Contact Delivery System (Delivery.html) and Fact Verification (verify.html), and through the View More button (more.html).
 
