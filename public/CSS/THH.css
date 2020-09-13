@@ -247,18 +247,20 @@ p{
       height: 100%;
       width: 100%;
 }
+.icons img{
+  height: 70px;
+  background-color: rgb(83, 92, 102);
+  border: 1px solid grey;
+  border-radius: 100%;
+}
 
 @media screen and (max-width: 1000px) {
   .mapxx iframe{
       height: 300px;
   }
   #credits p{
-      font-size: 12px;
+      font-size: 15px;
   }
-  #credits i{
-      font-size: 23px;
-   }
-
 }
 @media screen and (max-width: 800px) {
 .mapxx iframe{
@@ -266,10 +268,6 @@ p{
       height: 250px;
   }    
 #credits p{
-      font-size: 10px;
+      font-size: 14px;
   }    
-  #credits i{
-      font-size: 20px;
-  }
-  
 }
